@@ -8,13 +8,14 @@ Single page frontend application that cab be used to list top selling games of t
 #### Problem statement
 Develop a pseudo frontend application that cab be used to list top selling games of the world.
 
-### Technical skills and concept used
+### Technical skills used
 - React
-- React Redux
+- React Router
 - API Integration
 - Material ui
 - Html Css And JavaScript
 - CSS in JS
+- Theming in Material ui
 - Hosting on github pages
 - Local Storage
 
