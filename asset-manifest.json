@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Game-Ranking/static/js/main.fa2ab03a.chunk.js",
+    "main.js.map": "/Game-Ranking/static/js/main.fa2ab03a.chunk.js.map",
+    "runtime~main.js": "/Game-Ranking/static/js/runtime~main.938fca4e.js",
+    "runtime~main.js.map": "/Game-Ranking/static/js/runtime~main.938fca4e.js.map",
+    "static/js/2.51de7a9a.chunk.js": "/Game-Ranking/static/js/2.51de7a9a.chunk.js",
+    "static/js/2.51de7a9a.chunk.js.map": "/Game-Ranking/static/js/2.51de7a9a.chunk.js.map",
+    "index.html": "/Game-Ranking/index.html",
+    "precache-manifest.d3dac8d407a971d05df8d9dda62954ae.js": "/Game-Ranking/precache-manifest.d3dac8d407a971d05df8d9dda62954ae.js",
+    "service-worker.js": "/Game-Ranking/service-worker.js"
+  }
+}
