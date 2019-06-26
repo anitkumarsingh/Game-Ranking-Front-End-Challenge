@@ -146,7 +146,7 @@ class GameCard extends React.Component {
           />
             <CardMedia
               className={classNames(classes.media)}
-              image='/images/jeshoots-com-632498-unsplash.jpg'
+              image='images/jeshoots-com-632498-unsplash.jpg'
             />
           <CardContent className={classes.cardContent}>
             <Typography

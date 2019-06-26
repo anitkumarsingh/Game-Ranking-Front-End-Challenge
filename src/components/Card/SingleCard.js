@@ -51,7 +51,7 @@ class GameDetails extends Component{
                     <Card className={classes.card} >
                         <CardMedia
                             className={classes.media}
-                            image="/images/jeshoots-com-632498-unsplash.jpg"
+                            image="images/jeshoots-com-632498-unsplash.jpg"
                             title={ele.Name}
                         />
                         <CardContent>
